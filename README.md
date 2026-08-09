@@ -37,11 +37,18 @@ class About {
 }
 ```
 
-<div align="center">
-<a href="https://github.com/yusef1012005-cmd">
-<img src="https://github-readme-stats.vercel.app/api?username=yusef1012005-cmd&show_icons=true&theme=nord_dark" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusef1012005-cmd&layout=compact&theme=nord_dark" width="35%">
-</a>
-</div>
+<div align="center" >
+
+</details>
+  
+<hr></hr>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 </div>
