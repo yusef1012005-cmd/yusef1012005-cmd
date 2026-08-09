@@ -39,8 +39,8 @@ class About {
 
 <div align="center">
 <a href="https://github.com/YOUR-GITHUB-USERNAME">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=nord_dark" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=nord_dark" width="35%">
+<img src="https://github-readme-stats.vercel.app/api?username=yusef1012005-cmd&show_icons=true&theme=nord_dark" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusef1012005-cmd&layout=compact&theme=nord_dark" width="35%">
 </a>
 </div>
 
