@@ -38,7 +38,7 @@ class About {
 ```
 
 <div align="center">
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<a href="https://github.com/yusef1012005-cmd">
 <img src="https://github-readme-stats.vercel.app/api?username=yusef1012005-cmd&show_icons=true&theme=nord_dark" width="48%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusef1012005-cmd&layout=compact&theme=nord_dark" width="35%">
 </a>
