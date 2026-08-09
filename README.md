@@ -1,8 +1,6 @@
 <div align="center" width="50">
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
 
-</div>
 
 <hr></hr>
 
